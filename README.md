@@ -2,14 +2,6 @@
    Hello there!!!
 </h1>
 
-<a href="https://www.linkedin.com/in/leonardo-falango-473a9a213" target="_blank"><img heigth="50" align="center"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      alt="Leonardo Falango" height="50" width="50" /></a>
- <a href="https://instagram.com/falango._" target="_blank"><img align="center" heigth="50"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="instagram falas" height="50" width="50" /></a>
-</details>
-
 ---
 
 
